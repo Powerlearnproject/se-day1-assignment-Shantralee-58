@@ -6,11 +6,11 @@ Software Engineering Day1 Assignment
 
 1. Explain what software engineering is and discuss its importance in the technology industry.
 
--> Software is about creating softwares. It is the process of designing, developing, and maintaining software applications.
-   This includes things like websites, video games and mobile applications. The importance of software engineering is that it
-   drives innovation by creating new and exciting technologies that changes the way we live and work, it solves problems e.g.
-   Apps that helps you to shop online and the goods gets delivered to your door step its convinient, it boosts effeciency in 
-   businesses by improving communication, and It connects people e.g. social media applications.
+  -> Software is about creating softwares. It is the process of designing, developing, and maintaining software applications.
+     This includes things like websites, video games and mobile applications. The importance of software engineering is that it
+     drives innovation by creating new and exciting technologies that changes the way we live and work, it solves problems e.g.
+     Apps that helps you to shop online and the goods gets delivered to your door step its convinient, it boosts effeciency in 
+     businesses by improving communication, and It connects people e.g. social media applications.
 
 
 2. Identify and describe at least three key milestones in the evolution of software engineering.
