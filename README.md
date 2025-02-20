@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1. Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
 
   -> Software is about creating softwares. It is the process of designing, developing, and maintaining software applications.
      This includes things like websites, video games and mobile applications. The importance of software engineering is that it
@@ -13,7 +13,7 @@ Software Engineering Day1 Assignment
      businesses by improving communication, and It connects people e.g. social media applications.
 
 
-2. Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
 
    -> Dev Methodologies (1970s - Present):
       Structured approaches (Waterfall, Agile) to manage software projects.
@@ -28,7 +28,7 @@ Software Engineering Day1 Assignment
       impact: Faster releases, efficient systems, better collaboration.
 
 
-3. List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle.
 
    -> Planning: Figuring out what the software needs to do.
    -> Design: Making a plan for how the software will work.
@@ -38,7 +38,7 @@ Software Engineering Day1 Assignment
    -> Maintaining: Keeping the software working and updated.
 
 
-4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
    -> Waterfall is like building a house with a complete blueprint first. You finish each step before moving on, but changes are
       hard. Good for big unchanging projects.
@@ -47,20 +47,20 @@ Software Engineering Day1 Assignment
       don't know exactly what you need at start.
 
 
-5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
    -> Software Engineer: Builds the code.
    -> Quality Assurance Engineer: Tests the code.
    -> Project Manager: Organizes the project.
 
 
-6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
    -> IDEs: Help to write code faster and with fewer mistakes e.g. VS Code, IntelliJ Idea, Codepen etc.
    -> VCS: Saves your code history and good for collaboration e.g. Git
 
 
-7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
    -> Changing needs: Plan for changes, talk to people.
    -> Deadlines: Plan carefully, focus on what's important.
@@ -72,7 +72,7 @@ Software Engineering Day1 Assignment
    -> Security: Code carefully, check for problems.
 
 
-8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
    -> Unit: Test small code parts.
    -> Integration: Test how parts work together.
@@ -84,13 +84,13 @@ Software Engineering Day1 Assignment
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-1. Define prompt engineering and discuss its importance in interacting with AI models.
+Define prompt engineering and discuss its importance in interacting with AI models.
 
    -> Prompt engineering is how you talk to AI. It's about writing good questions and instructions to get best answers.
       It's important because it makes AI useful and reliable.
 
 
-2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
    -> "Write about dogs" is vague. "Write a short paragraph about the emotional benefits of adopting a dog from a shelter" is specific and gets better
        results. Good prompts guide the AI.
